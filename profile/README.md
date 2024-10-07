@@ -2,6 +2,11 @@
 
 An interactive, web-based application designed to facilitate the comparison of ground-based observations with Landsat data. The Flat Earthers App allows users to define target locations, receive notifications when a Landsat satellite is passing over the specified area, and access and visualize corresponding Landsat Surface Reflectance (SR) data.
 
+The deployed version of the website can be accessed via the following link:
+```
+https://flatearthers.ca
+```
+
 ## 🚀 Project Overview
 The Flat Earthers App was developed as part of the NASA's 2024 International Space Apps Landsat Challenge. Our tool addresses the challenge of integrating satellite data with ground-level observations by providing a user-friendly platform that combines geolocation, data acquisition, and visualization.
 
@@ -17,14 +22,9 @@ The Flat Earthers App was developed as part of the NASA's 2024 International Spa
 - **Enhance data accessibility and user interaction for various research needs.**
 - **Provide seamless notifications for efficient data collection.**
 
-## 🛠️ Technology Stack
-- **Frontend:** React.js
-- **Backend:** ASP.NET Web API
-- **Mapping Tool:** Google Maps API
-
 ## 📦 Installation and Setup
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-organization/Flat-Earthers-App.git
-   cd Flat-Earthers-App
+**Follow the readme files on the Frontend and Backend repos of this organization.**
+
+## Future this goals
+If this project is to continue, a chat app and a mobile app will be developed to enhance accessibility for the target users.
