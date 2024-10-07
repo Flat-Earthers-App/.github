@@ -27,4 +27,4 @@ The Flat Earthers App was developed as part of the NASA's 2024 International Spa
 **Follow the readme files on the Frontend and Backend repos of this organization.**
 
 ## Future this goals
-If this project is to continue, a chat app and a mobile app will be developed to enhance accessibility for the target users.
+If this project is to continued and improved in the future, a chatbox and a mobile app will be developed to enhance accessibility for the target users.
